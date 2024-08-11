@@ -10,27 +10,25 @@
 }
 .img2 {
   height: 80px;
-    align-self: center;
+  align-self: center;
 }
 .img3 {
   height: 10px;
-
-
 }
-.para11{
-    margin: 3px;
+.para11 {
+  margin: 3px;
 }
 
-.para10{
-    align-self: center;
-    color:#e73959 ;
-    font-size: 17px;
-    font-weight: bold;
+.para10 {
+  align-self: center;
+  color: #e73959;
+  font-size: 17px;
+  font-weight: bold;
 }
-.div1{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    gap: 5px;
+.div1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 5px;
 }
